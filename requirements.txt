@@ -1,1 +1,10 @@
-shot-scraper
+Flask
+flask-cors
+requests
+cdsapi
+xarray
+h5netcdf
+h5py
+numpy
+gunicorn
+
