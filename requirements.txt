@@ -6,5 +6,5 @@ xarray
 h5netcdf
 h5py
 numpy
+scipy
 gunicorn
-
